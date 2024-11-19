@@ -1,0 +1,6 @@
+numpy==2.0.2
+torch==2.4.0
+torchvision==0.19
+comyx==0.2.5
+gymnasium==0.28.1
+ray[default,rllib]==2.37.0
