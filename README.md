@@ -1,4 +1,4 @@
-# Hierarchical Deep Reinforcement Learning for Spectrum Sharing in Terrestrial and Non-Terrestrial Integrated Environments
+# Hierarchical Deep Reinforcement Learning for Adaptive Resource Management in Integrated Terrestrial and Non-Terrestrial Networks
 
 ## Project Overview
 This project presents a Hierarchical Deep Reinforcement Learning (HDRL) framework designed to efficiently manage spectrum sharing in an integrated terrestrial and non-terrestrial network (TN-NTN) environment. The framework enables dynamic spectrum allocation, which is increasingly vital as the number of connected devices grows with 6G technologies. Leveraging HDRL, our model learns to allocate spectrum in real-time, optimizing for both terrestrial and non-terrestrial networks, including satellite-based networks such as Starlink, to reduce interference and increase efficiency based on regional demands.
